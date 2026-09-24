@@ -20,3 +20,7 @@ for planning, tracking, and managing development activities.
 
 The project is developed using Scrum with planned
 sprints, backlog items, and task tracking.
+## Volunteer Management Feature
+
+Volunteers can register their details, skills, availability,
+and assigned disaster-relief tasks.
