@@ -24,3 +24,9 @@ sprints, backlog items, and task tracking.
 
 Volunteers can register their details, skills, availability,
 and assigned disaster-relief tasks.
+## Volunteer Availability
+
+Volunteers can specify their availability status as:
+- Available
+- Unavailable
+- Currently Assigned
